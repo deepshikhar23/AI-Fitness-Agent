@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+gradio
+pandas
+tavily-python
+Youtube-python
